@@ -2,10 +2,11 @@ body {
     background-color: aliceblue;
 }
 
-.header-one-style, .header-two-style {
+.header-one-style,
+.header-two-style {
 
     color: rgb(45, 209, 224);
-    background-color: rgb(103, 134, 153);
+    background-color: rgb(47 79 98);
     text-align: center;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 
@@ -44,7 +45,7 @@ body {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
-.unorganized-list-style, list-item {
+.unorganized-list-style{
 
     text-align: center;
     list-style-position: outside;
